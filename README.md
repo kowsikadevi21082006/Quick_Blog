@@ -7,6 +7,8 @@ A modern and responsive blog application built with the **MERN** (MongoDB, Expre
 ## 🔗 Live Demo
 
 👉 [Click here to view the deployed site](https://quick-blog-client-psi.vercel.app)
+
+
 👉 [Click here to view the Backend deployed site](https://quick-blog-server-ebon.vercel.app)
 
 
